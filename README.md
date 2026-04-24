@@ -572,49 +572,9 @@ Drop new PDFs into <code>data/pdfs/</code> and re-run the ingestion cells. Chrom
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-```bash
-# 1. Fork the project on GitHub
-# 2. Create your feature branch
-git checkout -b feature/AmazingFeature
-
-# 3. Commit your changes
-git commit -m "feat: add AmazingFeature"
-
-# 4. Push to the branch
-git push origin feature/AmazingFeature
-
-# 5. Open a Pull Request
-```
-
-> Please follow [Conventional Commits](https://www.conventionalcommits.org/) and open an issue to discuss large changes before submitting a PR.
 
 ---
 
-## 👤 Author
-
-<div align="center">
-
-<a href="https://github.com/saifullah857">
-  <img src="https://github.com/saifullah857.png" width="100" style="border-radius:50%;" alt="saifullah857" />
-</a>
-
-<br/><br/>
-
-**Saifullah**
-
-[![GitHub](https://img.shields.io/badge/GitHub-saifullah857-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah857)
-
-<br/>
-
-*If you found this helpful, please consider giving it a ⭐ — it really helps!*
-
-[![Star](https://img.shields.io/github/stars/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-?style=social)](https://github.com/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-)
-
-</div>
 
 ---
 
