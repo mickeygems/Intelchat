@@ -5,15 +5,6 @@
 
 <br/>
 
-<!-- Author & Repo -->
-<a href="https://github.com/saifullah857">
-  <img src="https://img.shields.io/badge/Author-saifullah857-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-">
-  <img src="https://img.shields.io/badge/Repo-Intelligent--PDF--QA-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <br/><br/>
 
 <!-- Tech Stack -->
@@ -627,15 +618,3 @@ git push origin feature/AmazingFeature
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**.
-See [`LICENSE`](./LICENSE) for full details.
-
----
-
-<div align="center">
-
-<sub>Built with ❤️ by <a href="https://github.com/saifullah857">saifullah857</a> &nbsp;·&nbsp; LangChain · ChromaDB · Sentence Transformers · Gemini · Groq · DeepSeek · Python</sub>
-
-</div>
